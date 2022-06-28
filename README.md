@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Kalpesh-Map
-- 👀 I’m interested in Travling
 - 🌱 I’m currently learning MVC
 - 📫 How to reach me Mail me : kmapelkar@gmail.com
 
